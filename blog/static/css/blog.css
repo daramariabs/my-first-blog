@@ -20,7 +20,8 @@ h1 a, h2 a {
 }
  
 .content {
-    margin-left: 40px;
+    width: 90%;
+    margin: auto;
 }
 
 h1, h2, h3, h4 {
@@ -46,10 +47,14 @@ h1, h2, h3, h4 {
     margin-right: 20px;
 }
 
+
 .post {
     margin-bottom: 70px;
+    
+    /* border: thick  groove  rgb(255,0,255); */
 }
 
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
+
